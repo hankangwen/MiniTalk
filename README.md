@@ -1,5 +1,6 @@
 # MiniTalk项目简介
 
+[开源一个 C# 开发的局域网的实时聊天项目](https://mp.weixin.qq.com/s/46GLat5LKj0sslJyFOhk3g)
 + 项目创建时间:2019-11-8 
 + 采用框架:.NetFrameWork 4.5
 
